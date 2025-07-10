@@ -1,4 +1,3 @@
-Software Engineer – Kendall White
 
 This project was inspired by college physics and the F-111 Aardvark developed by General Dynamics.
 	This aircraft was created in the 1960’s. The F-111 Aardvark was created for various purposes, including recognizance, strategic bombing, and electronic warfare.  This craft tops out at 2,005 MPH or 1742.297 knots (kt). 
